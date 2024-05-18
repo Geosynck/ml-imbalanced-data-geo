@@ -1,2 +1,2 @@
 xgboost==0.90
-pandas==0.
+pandas==0.25.1
