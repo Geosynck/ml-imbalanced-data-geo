@@ -1,4 +1,5 @@
 xgboost==0.90
 pandas==0.25.1
 imblearn
-numpy==1.
+numpy==1.17.3
+s
